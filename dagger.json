@@ -1,0 +1,16 @@
+{
+  "name": "ACMEOchestrator",
+  "sdk": "go",
+  "dependencies": [
+    {
+      "name": "ACMEApp",
+      "source": "ACMEApp"
+    },
+    {
+      "name": "ACMEPlatform",
+      "source": "ACMEPlatform"
+    }
+  ],
+  "source": "dagger",
+  "engineVersion": "v0.12.7"
+}

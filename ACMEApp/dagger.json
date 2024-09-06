@@ -1,0 +1,12 @@
+{
+  "name": "ACMEApp",
+  "sdk": "go",
+  "dependencies": [
+    {
+      "name": "ACMEPlatform",
+      "source": "../ACMEPlatform"
+    }
+  ],
+  "source": "dagger",
+  "engineVersion": "v0.12.7"
+}
